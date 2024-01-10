@@ -1,1 +1,7 @@
-dssdsadfdsafdsafsdfdsaf 
+
+### some syntax for obsidian 
+**Bold** 
+*italic*
+
+
+
