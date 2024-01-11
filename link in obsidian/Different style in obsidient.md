@@ -15,3 +15,4 @@
 - Math in obsidian 
 $\begin$
 
+this is all i have 
