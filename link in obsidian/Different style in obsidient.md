@@ -15,4 +15,4 @@
 - Math in obsidian 
 $\begin$
 
-this is all i have saddfads this is all i have 
+this is all i have saddfads this is all i have I know you for a long time
