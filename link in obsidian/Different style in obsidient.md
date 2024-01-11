@@ -15,4 +15,4 @@
 - Math in obsidian 
 $\begin$
 
-this is all i have saddfads this is all i have pokemon game  that i would love to have 
+this is all i have saddfads this is all i have pokemon game  that i would love to have git 
