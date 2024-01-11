@@ -6,7 +6,7 @@
 `python code n = 10`
 - task list in obsidian 
 -  []task
-- table in obsi \
+- table in obsidian  
 
 | table1 | table2 |
 | ---- | ---- |
@@ -15,4 +15,7 @@
 - Math in obsidian 
 $\begin$
 
+<<<<<<< HEAD
 this is all i have saddfads this is all i have I know you for a long time
+=======
+this is all i have saddfads this is all i have pokemon game  that i would love to have 
