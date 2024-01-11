@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "270a8343b184200c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "link in obsidian/Different style in obsidient.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "link in obsidian/Different style in obsidient.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "link in obsidian/Different style in obsidient.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7cbe691c31268ed",
+  "active": "270a8343b184200c",
   "lastOpenFiles": [
-    "link in obsidian/Using Hashtags.md",
-    "link in obsidian/Different style in obsidient.md"
+    "link in obsidian/Different style in obsidient.md",
+    "conflict-files-obsidian-git.md",
+    "link in obsidian/Using Hashtags.md"
   ]
 }
